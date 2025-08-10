@@ -34,7 +34,7 @@
 
 ### 10.Divide and Conquer
 
-### 11.Dynamic Programming
+### 11.[Dynamic Programming](./11_Dynamic_Programming)
 
 ### 12.Math
 
