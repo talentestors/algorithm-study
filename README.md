@@ -32,11 +32,13 @@
 
 ### 9.Bit Manipulation
 
-### 10.Dynamic Programming
+### 10.Divide and Conquer
 
-### 11.Math
+### 11.Dynamic Programming
 
-### 12.Miscellaneous
+### 12.Math
+
+### 13.Miscellaneous
 
 ## ❤️ Credits
 
