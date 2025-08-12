@@ -7,7 +7,6 @@
   <a href='./README.md'>English</a> | 中文
 </div>
 
-
 ---
 
 ## 📖 Templates
@@ -32,7 +31,7 @@
 
 ### 9.位运算
 
-#### 10.分治法
+### 10.分治法
 
 ### 11.[动态规划](./11_Dynamic_Programming)
 
@@ -43,3 +42,6 @@
 ## ❤️ Credits
 
 - [981377660LMT](https://github.com/981377660LMT/algorithm-study/)
+- [Hello 算法](https://www.hello-algo.com/)
+- [OI Wiki](https://oi-wiki.org/)
+- [yogykwan/acm-challenge-workbook](https://github.com/yogykwan/acm-challenge-workbook)

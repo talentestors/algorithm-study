@@ -43,3 +43,6 @@
 ## ❤️ Credits
 
 - [981377660LMT](https://github.com/981377660LMT/algorithm-study/)
+- [Hello Algo](https://www.hello-algo.com/)
+- [OI Wiki](https://oi-wiki.org/)
+- [yogykwan/acm-challenge-workbook](https://github.com/yogykwan/acm-challenge-workbook)
