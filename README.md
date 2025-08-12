@@ -2,9 +2,6 @@
   <h1>
   Algorithms Notes and Templates
   </h1>
-</div>
-
-<div align='center'>
   English | <a href='./README.zh-CN.md'>中文</a>
 </div>
 
@@ -37,6 +34,10 @@
 ### 11.Divide and Conquer
 
 ### 12.[Dynamic Programming](./Dynamic_Programming/)
+
+#### Knapsack problem
+
+- [0-1 Knapsack](./Dynamic_Programming/背包问题/01背包/)
 
 ### 13.[Greedy](./Greedy/)
 

@@ -2,8 +2,6 @@
   <h1>
   Algorithms Notes and Templates
   </h1>
-</div>
-<div align='center'>
   <a href='./README.md'>English</a> | 中文
 </div>
 
@@ -36,6 +34,10 @@
 ### 11.分治法
 
 ### 12.[动态规划](./Dynamic_Programming/)
+
+#### 背包问题
+
+- [0-1 背包](./Dynamic_Programming/背包问题/01背包/)
 
 ### 13.[贪心](./Greedy/)
 
