@@ -30,15 +30,19 @@
 
 ### 8.Sort
 
-### 9.Bit Manipulation
+### 9.[Search](./Search/)
 
-### 10.Divide and Conquer
+### 10.Bit Manipulation
 
-### 11.[Dynamic Programming](./11_Dynamic_Programming)
+### 11.Divide and Conquer
 
-### 12.Math
+### 12.[Dynamic Programming](./Dynamic_Programming/)
 
-### 13.Miscellaneous
+### 13.[Greedy](./Greedy/)
+
+### 14.Mathematics
+
+### 15.Miscellaneous
 
 ## ❤️ Credits
 
