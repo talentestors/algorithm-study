@@ -30,7 +30,7 @@
 ### 9.[搜索](./Search/)
 
 - [深度优先搜索（DFS）](./Search/Depth_First_Search/)
-- 广度优先搜索（BFS）
+- [广度优先搜索（BFS）](./Search/Breadth_First_Search/)
 - 回溯算法
 
 ### 10.位运算
@@ -39,9 +39,8 @@
 
 ### 12.[动态规划](./Dynamic_Programming/)
 
-#### 背包问题
-
-- [0-1 背包](./Dynamic_Programming/背包问题/01背包/)
+- 背包问题
+  - [0-1 背包](./Dynamic_Programming/背包问题/01背包/)
 
 ### 13.[贪心](./Greedy/)
 

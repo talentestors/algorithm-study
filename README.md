@@ -30,7 +30,7 @@
 ### 9.[Search](./Search/)
 
 - [Depth First Search(DFS)](./Search/Depth_First_Search/)
-- Breadth First Search(BFS)
+- [Breadth First Search(BFS)](./Search/Breadth_First_Search/)
 - Backtracking Algorithm
 
 ### 10.Bit Manipulation
@@ -39,9 +39,8 @@
 
 ### 12.[Dynamic Programming](./Dynamic_Programming/)
 
-#### Knapsack problem
-
-- [0-1 Knapsack](./Dynamic_Programming/背包问题/01背包/)
+- Knapsack problem
+  - [0-1 Knapsack](./Dynamic_Programming/背包问题/01背包/)
 
 ### 13.[Greedy](./Greedy/)
 
