@@ -29,6 +29,10 @@
 
 ### 9.[Search](./Search/)
 
+- [Depth First Search(DFS)](./Search/Depth_First_Search/)
+- Breadth First Search(BFS)
+- Backtracking Algorithm
+
 ### 10.Bit Manipulation
 
 ### 11.Divide and Conquer
