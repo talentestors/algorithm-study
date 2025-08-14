@@ -15,7 +15,7 @@ int bfs() {
     if (mp[0][0] == 0x7f7f7f7f)
         return 0;
     memset(ts, -1, sizeof(ts));
-    queue<pair<int, int>> q;
+    queue<pair<int, int> > q;
     if (mp[0][0] > 0) {
         q.push(make_pair(0, 0));
         ts[0][0] = 0;
