@@ -8,6 +8,7 @@ SeparateDefinitionBlocks: Always
 # 允许短的函数放在同一行,
 # 可选值: None, InlineOnly(定义在类中), Empty(空函数), Inline(定义在类中，空函数), All
 AllowShortFunctionsOnASingleLine: All
+AllowShortBlocksOnASingleLine: Empty
 # 允许lambda在一行中, 同上, 建议All
 AllowShortLambdasOnASingleLine: All
 AlwaysBreakBeforeMultilineStrings: true
