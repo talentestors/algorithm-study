@@ -38,6 +38,7 @@
 - [深度优先搜索（DFS）](./Search/Depth_First_Search/)
 - [广度优先搜索（BFS）](./Search/Breadth_First_Search/)
 - 回溯算法
+- [穷竭搜索](./Search/Exhaustive_Search/)
 
 ### 10.位运算
 

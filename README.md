@@ -38,6 +38,7 @@
 - [Depth First Search(DFS)](./Search/Depth_First_Search/)
 - [Breadth First Search(BFS)](./Search/Breadth_First_Search/)
 - Backtracking Algorithm
+- [Exhaustive Search](./Search/Exhaustive_Search/)
 
 ### 10.Bit Manipulation
 
