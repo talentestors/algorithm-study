@@ -40,7 +40,7 @@
 - 回溯算法
 - [穷竭搜索](./Search/Exhaustive_Search/)
 
-### 10.位运算
+### 10.[位运算](./Bit_Manipulation/)
 
 ### 11.分治法
 

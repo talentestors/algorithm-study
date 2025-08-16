@@ -40,7 +40,7 @@
 - Backtracking Algorithm
 - [Exhaustive Search](./Search/Exhaustive_Search/)
 
-### 10.Bit Manipulation
+### 10.[Bit Manipulation](./Bit_Manipulation/)
 
 ### 11.Divide and Conquer
 
