@@ -22,7 +22,7 @@
 
 ### 5.树(数据结构)
 
-- 珂朵莉树
+- [珂朵莉树](./Tree/ODT/)
   - ODT64ary
   - ODTTreeMap
   - ODTVanEmdeBoasTree
