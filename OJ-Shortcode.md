@@ -1,11 +1,11 @@
 # QWQ
 
-| Short Code |                  Address                  |
+| Short Code |              Website Address              |
 | :--------: | :---------------------------------------: |
-|     LC     |          <https://leetcode.com/>          |
-|    POJ     |             <http://poj.org/>             |
 |     CF     |         <https://codeforces.com/>         |
-|     NC     |        <https://ac.nowcoder.com/>         |
-|    UVA     |      <https://uva.onlinejudge.org/>       |
-|    Aizu    | <https://judge.u-aizu.ac.jp/onlinejudge/> |
+|     LC     |          <https://leetcode.com/>          |
 |     AT     |           <https://atcoder.jp/>           |
+|    UVA     |      <https://uva.onlinejudge.org/>       |
+|    POJ     |             <http://poj.org/>             |
+|     NC     |        <https://ac.nowcoder.com/>         |
+|    Aizu    | <https://judge.u-aizu.ac.jp/onlinejudge/> |
