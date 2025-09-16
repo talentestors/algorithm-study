@@ -55,6 +55,8 @@
 
 ### 15.杂项
 
+- [卡普拉斯-斯特朗算法(K-S Algorithm)](./Other/Karplus-Strong_Algorithm/)
+
 ## ❤️ Credits
 
 - [981377660LMT](https://github.com/981377660LMT/algorithm-study/)

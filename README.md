@@ -55,6 +55,8 @@
 
 ### 15.Miscellaneous
 
+- [Karplus-Strong Algorithm(K-S Algorithm)](./Other/Karplus-Strong_Algorithm/)
+
 ## ❤️ Credits
 
 - [981377660LMT](https://github.com/981377660LMT/algorithm-study/)
