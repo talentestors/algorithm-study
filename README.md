@@ -56,6 +56,7 @@
 ### 15.Miscellaneous
 
 - [Karplus-Strong Algorithm(K-S Algorithm)](./Other/Karplus-Strong_Algorithm/)
+- [Monte Carlo method](./Other/Monte-Carlo-method.md)
 
 ## ❤️ Credits
 

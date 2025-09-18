@@ -56,6 +56,7 @@
 ### 15.杂项
 
 - [卡普拉斯-斯特朗算法(K-S Algorithm)](./Other/Karplus-Strong_Algorithm/)
+- [蒙特卡罗方法](./Other/Monte-Carlo-method.md)
 
 ## ❤️ Credits
 
