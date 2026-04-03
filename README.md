@@ -53,7 +53,11 @@
 
 ### 14.Mathematics
 
-### 15.Miscellaneous
+### 15.[Hash](./Hash/)
+
+- [Consistent Hashing](./Hash/Consistent_Hashing.md)
+
+### 16.Miscellaneous
 
 - [Karplus-Strong Algorithm(K-S Algorithm)](./Other/Karplus-Strong_Algorithm/)
 - [Monte Carlo method](./Other/Monte-Carlo-method.md)

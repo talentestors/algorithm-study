@@ -53,7 +53,11 @@
 
 ### 14.数学
 
-### 15.杂项
+### 15.[哈希](./Hash/)
+
+- [一致性哈希](./Hash/Consistent_Hashing.md)
+
+### 16.杂项
 
 - [卡普拉斯-斯特朗算法(K-S Algorithm)](./Other/Karplus-Strong_Algorithm/)
 - [蒙特卡罗方法](./Other/Monte-Carlo-method.md)
